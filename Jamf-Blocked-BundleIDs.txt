@@ -40,3 +40,4 @@ net.openvpn.openvpnconnect.app
 com.logmein.hamachi
 com.equinux.vpntracker365
 com.windscribe.vpn
+org.airvpn.eddie.ui
