@@ -1,0 +1,61 @@
+Eddie.app
+Mail.app
+Music.app
+News.app
+Stocks.app
+TV.app
+Automator.app
+Avast SecureLine VPN.app
+Avast SecureLine VPN Uninstaller.app
+Bitdefender Agent.app
+Bitdefender Installer.app
+Butdefender Uninstaller.app
+Bitdefender VPN.app
+Bluetooth File Exchange.app
+Chess.app
+CyberGhost VPN.app
+Disk Utility.app
+ExpressVPN.app
+ExpressVPN Installer.app
+FaceTime.app
+Find My.app
+Games.app
+LogMeIn Hamachi.app
+LogMeInHamachiInstaller.app
+LogMeIn Hamachi Uninstaller.app
+Home.app
+iPhone Mirroring.app
+IPVanish VPN.app
+iTerm.app
+IVPN.app
+IVPN Uninstaller.app
+Keychain Access.app
+OneDrive.app
+Migration Assistant.app
+Mozilla VPN.app
+Mullvad VPN.app
+Install Mullvad VPN.app
+NordVPN.app
+Now TV.app
+Now.app
+OpenVPN Connect.app
+Uninstall OpenVPN Connect.app
+Photo Booth.app
+PrivadoVPN.app
+ProtonVPN.app
+PureVPN.app
+Script Editor.app
+Siri.app
+Skype.app
+Spotify.app
+Surfshark.app
+Thunderbird.app
+Time Machine.app
+Tor.app
+TunnelBear.app
+Voice Memos.app
+Wireshark.app
+VPN Tracker 365.app
+WindscribeInstaller.app
+Windscripe.app
+UninstallApplication.app
