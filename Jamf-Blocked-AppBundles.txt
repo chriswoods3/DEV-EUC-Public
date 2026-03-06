@@ -1,61 +1,62 @@
-Eddie.app
-Mail.app
-Music.app
-News.app
-Stocks.app
-TV.app
-Automator.app
-Avast SecureLine VPN.app
-Avast SecureLine VPN Uninstaller.app
-Bitdefender Agent.app
-Bitdefender Installer.app
-Butdefender Uninstaller.app
-Bitdefender VPN.app
-Bluetooth File Exchange.app
-Chess.app
-CyberGhost VPN.app
-Disk Utility.app
-ExpressVPN.app
-ExpressVPN Installer.app
-FaceTime.app
-Find My.app
-Games.app
-LogMeIn Hamachi.app
-LogMeInHamachiInstaller.app
-LogMeIn Hamachi Uninstaller.app
-Home.app
-iPhone Mirroring.app
-IPVanish VPN.app
-iTerm.app
-IVPN.app
-IVPN Uninstaller.app
-Keychain Access.app
-OneDrive.app
-Migration Assistant.app
-Mozilla VPN.app
-Mullvad VPN.app
-Install Mullvad VPN.app
-NordVPN.app
-Now TV.app
-Now.app
-OpenVPN Connect.app
-Uninstall OpenVPN Connect.app
-Photo Booth.app
-PrivadoVPN.app
-ProtonVPN.app
-PureVPN.app
-Script Editor.app
-Siri.app
-Skype.app
-Spotify.app
-Surfshark.app
-Thunderbird.app
-Time Machine.app
-Tor.app
-TunnelBear.app
-Voice Memos.app
-Wireshark.app
-VPN Tracker 365.app
-WindscribeInstaller.app
-Windscripe.app
-UninstallApplication.app
+com.apple.mail
+com.apple.Music
+com.apple.news
+com.apple.Stocks
+com.apple.TV
+com.apple.automator
+com.apple.BluetoothFileExchange
+com.apple.Chess
+com.apple.DiskUtility
+com.apple.FaceTime
+com.apple.findmy
+com.apple.Home
+com.apple.iPhoneMirroring
+com.apple.keychainaccess
+com.apple.MigrationAssistant
+com.apple.PhotoBooth
+com.apple.ScriptEditor2
+com.apple.Siri
+com.apple.backup.launcher
+com.apple.VoiceMemos
+
+com.spotify.client
+com.skype.skype
+org.mozilla.thunderbird
+com.microsoft.OneDrive
+com.googlecode.iterm2
+org.mozilla.torbrowser
+com.nowtv.Player
+
+com.express.vpn
+com.nordvpn.macos
+net.mullvad.vpn
+org.mozilla.macos.FirefoxVPN
+ch.protonvpn.mac
+com.surfshark.sandbox
+com.tunnelbear.mac
+com.cyberghostsrl.cyberghostmac
+com.electron.ivpn-ui
+org.openvpn.client.app
+com.logmein.hamachi
+org.airvpn.eddie.ui
+com.windscribe.client
+com.vpntracker.365mac
+com.tunnelbear.mac.TunnelBear
+com.surfshark.vpnclient.macos.direct
+com.purevpn.app.mac
+io.privado.main
+com.ipvanish.IPVanish
+com.bitdefender.vpn
+com.avast.osx.secureline
+
+
+com.logmein.hamachiinstaller
+net.ivpn.client.uninstaller
+net.openvpn.uninstaller
+com.avast.osx.secureline.uninstaller
+
+
+com.proxyman.NSProxy
+org.wireshark.Wireshark
+
+com.bitdefender.agentui
