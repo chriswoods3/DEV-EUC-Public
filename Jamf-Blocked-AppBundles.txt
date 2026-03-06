@@ -29,6 +29,7 @@ iPhone Mirroring.app
 IPVanish VPN.app
 iTerm.app
 IVPN.app
+IVPN Installer.app
 IVPN Uninstaller.app
 Keychain Access.app
 OneDrive.app

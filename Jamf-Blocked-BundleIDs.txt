@@ -53,6 +53,7 @@ com.avast.osx.secureline
 
 com.logmein.hamachiinstaller
 net.ivpn.client.uninstaller
+net.ivpn.client.installer
 net.openvpn.uninstaller
 com.avast.osx.secureline.uninstaller
 
