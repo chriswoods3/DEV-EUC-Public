@@ -28,6 +28,7 @@ org.mozilla.torbrowser
 com.nowtv.Player
 
 com.express.vpn
+com.express.cpn.splittunnel.cli
 com.nordvpn.macos
 net.mullvad.vpn
 org.mozilla.macos.FirefoxVPN
