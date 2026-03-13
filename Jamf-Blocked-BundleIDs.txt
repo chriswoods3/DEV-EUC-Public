@@ -18,6 +18,19 @@ com.apple.ScriptEditor2
 com.apple.Siri
 com.apple.backup.launcher
 com.apple.VoiceMemos
+com.apple.games
+com.apple.contacts
+com.apple.books
+com.apple.calendar
+com.apple.FreeForm
+com.apple.airport.airportutility
+com.apple.Image_Capture
+com.apple.journal
+com.apple.notes
+com.apple.Passwords
+com.apple.Podcasts
+com.apple.AudioMIDISetup
+com.apple.ScreenSharing
 
 com.spotify.client
 com.skype.skype
@@ -28,7 +41,7 @@ org.mozilla.torbrowser
 com.nowtv.Player
 
 com.express.vpn
-com.express.cpn.splittunnel.cli
+com.express.vpn.splittunnel.cli
 com.nordvpn.macos
 net.mullvad.vpn
 org.mozilla.macos.FirefoxVPN
@@ -56,6 +69,9 @@ net.ivpn.client.uninstaller
 net.ivpn.client.installer
 net.openvpn.uninstaller
 com.avast.osx.secureline.uninstaller
+com.express.vpn.installer
+com.bitdefender.installer
+co.bitdefender.uninstallerui
 
 
 com.proxyman.NSProxy
