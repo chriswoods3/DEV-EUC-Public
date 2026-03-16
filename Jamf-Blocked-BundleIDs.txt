@@ -31,6 +31,7 @@ com.apple.Passwords
 com.apple.Podcasts
 com.apple.AudioMIDISetup
 com.apple.ScreenSharing
+com.apple.messages
 
 com.spotify.client
 com.skype.skype
